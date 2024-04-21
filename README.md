@@ -42,7 +42,7 @@ while True:
    s.send("acknowledgement recived from the server".encode())
 ```
 
-## OUPUT:
+## OUTPUT:
 ### Client:
 ![client2b](https://github.com/VincyJovitha01/2b_SLIDING_WINDOW_PROTOCOL/assets/147121113/2eed8ef5-b36c-4a8f-9a9e-c21c9c952b54)
 
